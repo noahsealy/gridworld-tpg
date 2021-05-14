@@ -1,3 +1,7 @@
+# Grid World Implementation
+GridWorld with PyTPG implementation during research for Dr. Malcolm Heywood at Dalhousie.
+PyTPG componenet implemented by Ryan Amaral, found here: https://github.com/Ryan-Amaral/PyTPG.
+
 # tpg-python
 A python implementation of Tangled Program Graphs. A graph based genetic programming algorithm.
 
