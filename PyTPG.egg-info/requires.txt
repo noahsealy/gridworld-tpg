@@ -1,4 +1,0 @@
-numba
-numpy
-unittest-xml-reporting
-scipy
